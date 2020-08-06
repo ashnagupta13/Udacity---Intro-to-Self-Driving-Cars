@@ -10,10 +10,10 @@ In this section you'll get a sneak peak of the classroom, meet the team, and lea
 ### Bayesian Thinking
 Learn the framework that underlies a self-driving car’s understanding of itself and the world around it, and to see the world the way a self-driving car does.
 
-### Project: Joy Ride
+### Joy Ride
 Working with Matrices This course will focus on two tools which are vital to self-driving car engineers: object oriented programming and linear algebra.
 
-### Project: Implement a Matrix Class
+### Implement a Matrix Class
 C++ Basics This course is the first step in a rewarding journey towards C++ expertise. The goal is translation: get a program written in Python, and translate it into C++.
 
 ### Performance Programming in C++
